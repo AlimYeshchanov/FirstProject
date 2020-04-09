@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">learn words Easily</string>
+    <string name="btn_one">О данном приложении</string>
+    <string name="btn_two">Создай свой список для заучивания</string>
+    <string name="btn_three">Напиши слово</string>
+    <string name="btn_four">Найди значение слова (анг)</string>
+    <string name="btn_five">Предыдущее только наоборот</string>
+    <string name="descOfApp">Привет друг! Не так давно задумался над созданием приложения для заучивания английских слов. Данное приложение создавалось под себя. Здесь ты сам создаешь список тех слов, которые ты хочешь запомнить. Запоминание слов я сравнил с подходами в тренажерном зале. Так чтобы нарастить определенную группу мышц мы делаем к примеру 3 подхода по 10 повторений. Такая методика и здесь. Просто создай свой список слов с переводом или с значением и просто подходами запоминай слова. Не надо думать just do it! Я начинающий разработчик, поэтому буду признателен если ты поделишься тем, что нужно улучшить или добавить еще какую то фишку для заучивания слов. На основе этого приложение будет дорабатываться.</string>
+    <string name="item_1">Action is the foundational key to all success (Pablo Picasso)</string>
+    <string name="hint_word">Внести слово</string>
+    <string name="hint_meaning">Значение слова</string>
+    <string name="btn_save_note">Добавить слово</string>
+    <string name="warning_fill_fields">Все поля должны быть заполнены</string>
+</resources>
